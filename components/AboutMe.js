@@ -33,37 +33,17 @@ export default function AboutMe() {
               <h1 className="text-xl font-semibold text-gray-700 dark:text-gray-200">
                 Contact
               </h1>
-              <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                For any sort help / enquiry, shoot a{" "}
-                <a
-                  href={`mailto:${userData.email}`}
-                  className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
-                >
-                  mail
-                </a>{" "}
-                and I'll get back. I swear.
-              </p>
+              <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">Altijd te bereiken op mijn mail of telefoonnummer.</p>
             </div>
             <div className="mt-8">
               <h1 className="text-xl font-semibold text-gray-700 dark:text-gray-200">
                 Job Opportunities
               </h1>
-              <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                I'm looking for a job currently, If you see me as a good fit,
-                check my{" "}
-                <a
-                  href={userData.resumeUrl}
-                  target="__blank"
-                  className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
-                >
-                  CV
-                </a>{" "}
-                and I'd love to work for you.
-              </p>
+              <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">Moment ben ik niet opzoek naar werk oid. Maar ben altijd in om kennis te maken en mijn connecties te verbreden.</p>
             </div>
             {/* Social Links */}
             <h1 className="text-xl font-semibold text-gray-700 mt-8 dark:text-gray-200">
-              Social Links
+              Social media
             </h1>
             <div className="mt-4 ml-4">
               <div className="flex flex-row justify-start items-center ">
@@ -152,19 +132,11 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img

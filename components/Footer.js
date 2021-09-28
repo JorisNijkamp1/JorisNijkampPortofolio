@@ -13,13 +13,13 @@ export default function Footer() {
           <div>
             {/* Support me by keeping this in the footer, please. :) */}
             <p>
-              Developed by
+              Made by by
               <div className="inline-block transform hover:scale-110 hover:-rotate-3 transition duration-300">
                 <a
                   className="hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
-                  href="https://manuarora.in"
+                  href="https://jorisnijkamp.nl"
                 >
-                  Manu Arora
+                  Joris Nijkamp
                 </a>
               </div>
             </p>
