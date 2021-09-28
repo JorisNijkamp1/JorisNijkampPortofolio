@@ -31,6 +31,11 @@ const userData = {
             title: "Industriële Kring Lochem",
             link: "https://www.industrielekringlochem.nl/",
             imgUrl: "/kring.jpg",
+        },
+        {
+            title: "Best boys",
+            link: "https://bestboys.nl/",
+            imgUrl: "/best-boys.jpg",
         }
     ],
     about: {
