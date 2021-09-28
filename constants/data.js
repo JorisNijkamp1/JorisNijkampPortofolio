@@ -16,6 +16,21 @@ const userData = {
             title: "Quizzer client",
             link: "https://quizzer-client.jorisnijkamp.nl/",
             imgUrl: "/quizzer-client.jpg",
+        },
+        {
+            title: "Dehaanschippers makelaardij",
+            link: "http://schippers.sitework.link/",
+            imgUrl: "/schippers.jpg",
+        },
+        {
+            title: "Poelier 't Voske",
+            link: "https://poeliertvoske.nl/",
+            imgUrl: "/poelier.jpg",
+        },
+        {
+            title: "Industriële Kring Lochem",
+            link: "https://www.industrielekringlochem.nl/",
+            imgUrl: "/kring.jpg",
         }
     ],
     about: {
